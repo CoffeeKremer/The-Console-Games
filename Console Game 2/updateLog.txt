@@ -1,0 +1,2 @@
+Dec 19, 2023: Finished everything, need to scan for bugs.
+Dec 7, 2023: started making the game.

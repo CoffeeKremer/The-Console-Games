@@ -1,0 +1,2 @@
+Variable 'RegionY' was changed to 'Regiony', it was a game break bug.
+Infinite scavenge bug was fixed, now has an 'if' check.
