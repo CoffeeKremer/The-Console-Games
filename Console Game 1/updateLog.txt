@@ -1,0 +1,8 @@
+Nov 15 2023:
+Compiled main.py to CG1.exe, it's now a stand-alone game.
+Nov 14 2023:
+Rooms now placed inside of main.py. Reason: Unsolveable errors/unintendend function.
+Nov 9 2023:
+Added levels, darkness, lantern fuel, gold, looting, ect.
+Nov 8 2023:
+Begun work making game.
